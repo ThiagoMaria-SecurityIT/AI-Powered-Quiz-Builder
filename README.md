@@ -27,7 +27,8 @@ The app has two main modes:
 
 After you finish the quiz, you get a detailed report card that shows your score, which questions you got right or wrong, and even gives you **"Study Recommendations"** on which phases you should review!
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/7e2869a0-2326-47ec-bfe6-6076d7115f0f" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e5874450-7e8c-4366-b3d2-53271f6c62e7" />
+
 
 
 ## The Story Behind the Code: A Partnership with AI
